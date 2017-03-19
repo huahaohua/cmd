@@ -1,5 +1,9 @@
-这是develop分支
+这是豪哥分支
 function(){
 	var a, b = 0;
 	var c+d = 3;
+}
+
+function (let b, let c)->(var) {
+	return b+c;
 }
