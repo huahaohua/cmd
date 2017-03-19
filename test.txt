@@ -1,0 +1,5 @@
+这是豪哥分支
+function(){
+	var a, b = 0;
+	var c+d = 3;
+}
