@@ -1,9 +1,9 @@
-这是豪哥分支
+
+这是小花分支
 function(){
 	var a, b = 0;
-	var c+d = 3;
+	var c, d;
 }
-
-function (let b, let c)->(var) {
-	return b+c;
+function add(a,b){
+	return a+b;
 }
